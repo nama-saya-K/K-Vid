@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Buku untuk Saya</string>
+    <string name="app_subtitle">Ruang Menulis &amp; Jurnal Pribadi</string>
+    <string name="nav_pustaka">Pustaka</string>
+    <string name="nav_editor">Tulis</string>
+    <string name="nav_kutipan">Kutipan &amp; Ide</string>
+    <string name="nav_statistik">Jejak</string>
+    <string name="search_placeholder">Cari buku, bab, halaman, atau isi catatan…</string>
+    <string name="btn_new_book">Buku Baru</string>
+    <string name="btn_new_chapter">Bab Baru</string>
+    <string name="btn_export_markdown">Ekspor Markdown (.md)</string>
+    <string name="btn_import_markdown">Impor Markdown</string>
+    <string name="empty_books_title">Mulai Tulis Buku Pertama Anda</string>
+    <string name="empty_books_desc">Ruang tenang untuk merangkai bab kehidupan, jurnal harian, draf esai, atau kumpulan pemikiran pribadi.</string>
+</resources>

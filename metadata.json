@@ -1,0 +1,6 @@
+{
+  "name": "Buku untuk Saya",
+  "description": "Aplikasi menulis buku pribadi, jurnal reflektif, dan catatan Markdown dengan editor kaya fitur, manajemen bab, mode baca bebas gangguan, dan ekspor Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
